@@ -5,6 +5,7 @@
 Fill the gap in our portfolio by developping a first solid tire in this size.
 
 <h3>Activities Done by myself</h3>
+<h5>Tread Design</h5>
 <h5>Manufacturing Feasibility Study</h5>
 <h5>Product Cost Calculation</h5>
 <h5>Evaluate FEA results</h5>

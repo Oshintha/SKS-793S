@@ -1,6 +1,6 @@
 # SKS-793S Project Overview
 
-![image](https://github.com/Oshintha/SKS-793S/assets/155742370/effc4c5f-7a30-4741-a2d6-697275b133cd)
+<img src="https://github.com/Oshintha/SKS-793S/assets/155742370/effc4c5f-7a30-4741-a2d6-697275b133cd" width="80%" height="80%">
 
 <h3>Product Description:</h3>
 <p>SKS-793S is a next-generation versatile solid tire solution designed for severe-duty and flat-free performance. Engineered to excel in mixed and hard surface skid steer applications, this tire offers exceptional ride quality and durability.</p>

@@ -1,5 +1,4 @@
 # SKS-793S Project Overview
-<h3>Project Name: SKS-793S</h3>
 
 ![image](https://github.com/Oshintha/SKS-793S/assets/155742370/effc4c5f-7a30-4741-a2d6-697275b133cd)
 

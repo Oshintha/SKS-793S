@@ -15,7 +15,7 @@ The primary objective of the SKS-793S project was to develop a range of solid ti
 - Conducting Manufacturing Feasibility Studies
 - Calculating Product Costs
 - Evaluating Finite Element Analysis (FEA) Results
-- Performing Risk Analysis (DFMEA)
+- Performing Risk Analysis (DFMEA & PFMEA)
 - Engaging in Theoretical Calculations and Layout Designs
 - Overseeing Prototype Manufacturing and Testing
 - Managing ISO Documentation
